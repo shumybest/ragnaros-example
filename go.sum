@@ -111,8 +111,8 @@ github.com/russross/blackfriday/v2 v2.1.0 h1:JIOH55/0cWyOuilr9/qlrm0BSXldqnqwMsf
 github.com/russross/blackfriday/v2 v2.1.0/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
 github.com/shirou/gopsutil v3.20.10+incompatible h1:kQuRhh6h6y4luXvnmtu/lJEGtdJ3q8lbu9NQY99GP+o=
 github.com/shirou/gopsutil v3.20.10+incompatible/go.mod h1:5b4v6he4MtMOwMlS0TUMTu2PcXUg8+E1lC7eC3UO/RA=
-github.com/shumybest/ragnaros2 v0.0.0-20210118081334-d83af8bd8858 h1:l+ZdMf/L0uNtKCKQMF8tpr7nLFjQnY4e+Ujm6ztlQRc=
-github.com/shumybest/ragnaros2 v0.0.0-20210118081334-d83af8bd8858/go.mod h1:Me9r0TFMKQG9AUiPlWg98Sc6L8SKGrxLsF2gOAKqdOs=
+github.com/shumybest/ragnaros v0.0.0-20210127030708-a8b509901e68 h1:dUnTPjEj7CfOOMkhPfG45/JSLrOvwua1ZAFcfrLUKZw=
+github.com/shumybest/ragnaros v0.0.0-20210127030708-a8b509901e68/go.mod h1:n9aXwCT/i/W5GzWuNjBok+Ul9R7Ufv83tqA/kGH4XqU=
 github.com/shurcooL/sanitized_anchor_name v1.0.0 h1:PdmoCO6wvbs+7yrJyMORt4/BmY5IYyJwS/kOiWx8mHo=
 github.com/shurcooL/sanitized_anchor_name v1.0.0/go.mod h1:1NzhyTcUVG4SuEtjjoZeVRXNmyL/1OwPU0+IJeTBvfc=
 github.com/sirupsen/logrus v1.7.0 h1:ShrD1U9pZB12TX0cVy0DtePoCH97K8EtX+mg7ZARUtM=

@@ -1,4 +1,4 @@
-module ragnaros2-example
+module ragnaros-example
 
 go 1.13
 
@@ -8,7 +8,7 @@ require (
 	github.com/go-redis/redis/v8 v8.3.3
 	github.com/go-resty/resty/v2 v2.3.0
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
-	github.com/shumybest/ragnaros2 v0.0.0-20210118081334-d83af8bd8858
+	github.com/shumybest/ragnaros v0.0.0-20210127030708-a8b509901e68
 	github.com/ugorji/go v1.2.0 // indirect
 	github.com/urfave/cli/v2 v2.3.0
 	golang.org/x/sys v0.0.0-20201112073958-5cba982894dd // indirect

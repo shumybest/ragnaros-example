@@ -1,10 +1,10 @@
 .PHONY: default build docker test clean bench
 
-BINARY = ragnaros2-example
-Image = ragnaros2-example
+BINARY = ragnaros-example
+Image = ragnaros-example
 
 PWD            := $(shell pwd)
-PKG            := ragnaros2-example
+PKG            := ragnaros-example
 TRAVIS_COMMIT ?= `git rev-parse HEAD`
 GOCMD          = go
 BUILD_TIME     = `date +'%Y-%m-%d %H:%M:%S'`

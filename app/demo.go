@@ -6,8 +6,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/go-redis/redis/v8"
 	"github.com/go-resty/resty/v2"
-	"github.com/shumybest/ragnaros2"
-	"github.com/shumybest/ragnaros2/feign"
+	"github.com/shumybest/ragnaros"
+	"github.com/shumybest/ragnaros/feign"
 	"gorm.io/gorm"
 	"net/http"
 )

@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/shumybest/ragnaros2"
-	"github.com/shumybest/ragnaros2/config"
+	"github.com/shumybest/ragnaros"
+	"github.com/shumybest/ragnaros/config"
 	"github.com/urfave/cli/v2"
 )
 

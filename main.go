@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/shumybest/ragnaros2"
+	"github.com/shumybest/ragnaros"
 	"github.com/urfave/cli/v2"
 	"os"
-	"ragnaros2-example/app"
+	"ragnaros-example/app"
 	"sort"
 )
 
