@@ -8,7 +8,7 @@ require (
 	github.com/go-redis/redis/v8 v8.3.3
 	github.com/go-resty/resty/v2 v2.3.0
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
-	github.com/shumybest/ragnaros v0.0.0-20210127030708-a8b509901e68
+	github.com/shumybest/ragnaros v0.0.0-20210205013936-d2c3d1fe1176
 	github.com/ugorji/go v1.2.0 // indirect
 	github.com/urfave/cli/v2 v2.3.0
 	golang.org/x/sys v0.0.0-20201112073958-5cba982894dd // indirect
